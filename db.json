@@ -1,5 +1,5 @@
 {
-  "users": {
+  "users": [
     { "email": "fakeemail@mail.ru", "password": "Pass12345", "id": 1 },
     { "email": "fakeemail@gmail.com", "password": "Qwerty123", "id": 2 },
     { "email": "fakeemail@yahoo.com", "password": "pAss12345", "id": 3 },
@@ -10,8 +10,8 @@
     { "email": "fakeemail@myspace.com", "password": "QwertY123", "id": 8 },
     { "email": "fakeemail@facebook.com", "password": "123Qwerty", "id": 9 },
     { "email": "fakeemail@bing.com", "password": "qWerty123", "id": 10 },
-  }, 
-  "cars": {
+  ], 
+  "cars": [
     { "modelId": "10325", "id": 1, "modelName": "Mercedes-Benz", "image": "https://...", "price": 24000 },
     { "modelId": "10894", "id": 2, "modelName": "BMW", "image": "https://...", "price": 23000 },
     { "modelId": "50462", "id": 3, "modelName": "Toyota", "image": "https://...", "price": 41000 },
@@ -22,5 +22,5 @@
     { "modelId": "63578", "id": 8, "modelName": "Lamborgini", "image": "https://...", "price": 89000 },
     { "modelId": "21347", "id": 9, "modelName": "Subaru", "image": "https://...", "price": 27000 },
     { "modelId": "99120", "id": 10, "modelName": "Ford", "image": "https://...", "price": 32000 },
-  }, 
+  ], 
 }
