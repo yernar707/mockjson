@@ -1,0 +1,26 @@
+{
+  "users": [
+    { "email": "fakeemail@mail.ru", "password": "Pass12345", "id": 1 },
+    { "email": "fakeemail@gmail.com", "password": "Qwerty123", "id": 2 },
+    { "email": "fakeemail@yahoo.com", "password": "pAss12345", "id": 3 },
+    { "email": "fakeemail@yandex.ru", "password": "12345Pass", "id": 4 },
+    { "email": "fakeemail@bk.ru", "password": "Ssap12345", "id": 5 },
+    { "email": "fakeemail@outlook.com", "password": "Pass54321", "id": 6 },
+    { "email": "fakeemail@mail.com", "password": "Ytrewq321", "id": 7 },
+    { "email": "fakeemail@myspace.com", "password": "QwertY123", "id": 8 },
+    { "email": "fakeemail@facebook.com", "password": "123Qwerty", "id": 9 },
+    { "email": "fakeemail@bing.com", "password": "qWerty123", "id": 10 },
+  ], 
+  "cars": [
+    { "modelId": "10325", "id": 1, "modelName": "Mercedes-Benz", "image": "https://...", "price": 24000 },
+    { "modelId": "10894", "id": 2, "modelName": "BMW", "image": "https://...", "price": 23000 },
+    { "modelId": "50462", "id": 3, "modelName": "Toyota", "image": "https://...", "price": 41000 },
+    { "modelId": "30645", "id": 4, "modelName": "Tesla", "image": "https://...", "price": 65000 },
+    { "modelId": "97231", "id": 5, "modelName": "Porsche", "image": "https://...", "price": 47000 },
+    { "modelId": "55542", "id": 6, "modelName": "Honda", "image": "https://...", "price": 19000 },
+    { "modelId": "21654", "id": 7, "modelName": "Ferrari", "image": "https://...", "price": 72000 },
+    { "modelId": "63578", "id": 8, "modelName": "Lamborgini", "image": "https://...", "price": 89000 },
+    { "modelId": "21347", "id": 9, "modelName": "Subaru", "image": "https://...", "price": 27000 },
+    { "modelId": "99120", "id": 10, "modelName": "Ford", "image": "https://...", "price": 32000 },
+  ], 
+}
