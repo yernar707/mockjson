@@ -10,7 +10,7 @@
     { "email": "fakeemail@myspace.com", "password": "QwertY123", "id": 8 },
     { "email": "fakeemail@facebook.com", "password": "123Qwerty", "id": 9 },
     { "email": "fakeemail@bing.com", "password": "qWerty123", "id": 10 },
-  ], 
+  , 
   "cars": [
     { "modelId": "10325", "id": 1, "modelName": "Mercedes-Benz", "image": "https://...", "price": 24000 },
     { "modelId": "10894", "id": 2, "modelName": "BMW", "image": "https://...", "price": 23000 },
@@ -22,5 +22,5 @@
     { "modelId": "63578", "id": 8, "modelName": "Lamborgini", "image": "https://...", "price": 89000 },
     { "modelId": "21347", "id": 9, "modelName": "Subaru", "image": "https://...", "price": 27000 },
     { "modelId": "99120", "id": 10, "modelName": "Ford", "image": "https://...", "price": 32000 },
-  ], 
+  , 
 }
