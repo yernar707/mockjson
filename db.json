@@ -22,5 +22,5 @@
     { "modelId": "63578", "id": 8, "modelName": "Lamborgini", "image": "https://...", "price": 89000 },
     { "modelId": "21347", "id": 9, "modelName": "Subaru", "image": "https://...", "price": 27000 },
     { "modelId": "99120", "id": 10, "modelName": "Ford", "image": "https://...", "price": 32000 }
-  ], 
+  ]
 }
