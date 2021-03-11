@@ -118,20 +118,7 @@
     { "id" : 38, "modelId": 4, "image": "https://bringatrailer.com/wp-content/uploads/2019/01/5c4283e2808df_mercedes-benz_slk55_amg_1546840373f66e7dff9f98764daD875B71B-FF35-4514-A7B9-5BABA3710C79.jpeg?fit=940%2C626", "price": 53000 },
     { "id" : 39, "modelId": 1, "image": "https://cnet1.cbsistatic.com/img/V6vDYbBErGzFQM5OQmljmigup3c=/940x0/2019/06/26/2176678c-32f5-4981-9653-1b2463d87a9b/carbahnc63s001.jpg", "price": 75000 },
     { "id" : 40, "modelId": 1, "image": "https://images.moneycontrol.com/static-mcnews/2020/07/Mercedes-C63-1-770x433.jpg?impolicy=website&width=770&height=431", "price": 71000 },
-    { "id" : 41, "modelId": 1, "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/27/w900X450/2019-2020-mercedes-amg-c63-coupe-front-angle-view-carbuzz-509496-1600.jpg", "price": 79000 },
-    { "id" : 42, "modelId": 10, "image": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2021/camry/1JJ/1.png?bg=fff&fm=webp&w=930", "price": 33000 },
-    { "id" : 43, "modelId": 10, "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Camry/6763/1606299064588/front-left-side-47.jpg", "price": 28000 },
-    { "id" : 44, "modelId": 10, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SvP3IzyguNwq28RSVAYZmy-8bU4n4ghRYQ&usqp=CAU", "price": 30000 },
-    { "id" : 45, "modelId": 40, "image": "https://images.cdn.circlesix.co/image/2/1200/700/5/uploads/posts/2020/04/d7501a02fffb2669dfc1384ce0910501.jpg", "price":  },
-    { "id" : 46, "modelId": 37, "image": "https://cnet2.cbsistatic.com/img/_SRYltboHPX66mAzrNXRi6JK3V4=/940x0/2018/10/16/93a42e5b-f9bb-4cd3-b856-5f9d2d612a37/2018-ford-mustang-gt-62.jpg", "price": 23000 },
-    { "id" : 47, "modelId": 37, "image": "https://cdn.drivek.it/configurator-covermobile/cars/gb/$original$/FORD/MUSTANG/32383_COUPE-2-DOORS/ford-mustang-gt-2018-cover-mobile.jpg", "price": 41000 },
-    { "id" : 48, "modelId": 22, "image": "http://www.clickheretesting.com/BarkerHonda/research/2021/crv/images/mlp-img-top.jpg", "price": 39000 },
-    { "id" : 49, "modelId": 22, "image": "https://images.cars.com/cldstatic/wp-content/uploads/img-515841119-1552945154156.jpg", "price": 38000 },
-    { "id" : 50, "modelId": 22, "image": "https://images.dealer.com/ddc/vehicles/2021/Honda/CR-V/SUV/trim_EX_35f4d0/color/Platinum%20White%20Pearl-WX-224%2C221%2C212-640-en_US.jpg?impolicy=resize&w=640", "price": 41000 },
-    { "id" : 51, "modelId": 24, "image": "https://cnet1.cbsistatic.com/img/eqG9ZVdBsZ9v1-Ndw5Capv02PXc=/756x425/2018/05/31/4c115dbc-0e46-4973-80aa-22a6948859f2/010-2018-honda-pilot.jpg", "price": 49000 },
-    { "id" : 52, "modelId": 24, "image": "https://cdn.jdpower.com/JDPA_2020-Honda-Pilot-Black-Edition-Small.jpg", "price": 53000 },
-    { "id" : 53, "modelId": 15, "image": "https://cdn.motorcar.com/used-2017-tesla-model_x-seedescriptionfordetails-8431-20261193-1-1024.jpg", "price": 47000 },
-    { "id" : 54, "modelId": 15, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5vBPoVsJcMakqDRT__AXGl1vlzhtYl3VCg&usqp=CAU", "price": 51000 },
-    { "id" : 55, "modelId": 15, "image": "https://cdn.shopify.com/s/files/1/0196/5170/files/homepage_model_image_MX_caronly_1024x1024.jpg?v=1601062617", "price": 50000 },
+    { "id" : 41, "modelId": 1, "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/27/w900X450/2019-2020-mercedes-amg-c63-coupe-front-angle-view-carbuzz-509496-1600.jpg", "price": 79000 }
+
   ]
 }
