@@ -108,17 +108,7 @@
     { "id" : 28, "modelId": 14, "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social", "price": 39000 },
     { "id" : 29, "modelId": 13, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Tesla_Model_S_75D.jpg/1200px-2018_Tesla_Model_S_75D.jpg", "price": 53000 },
     { "id" : 30, "modelId": 12, "image": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2021/sienna/3T3/1.png?bg=fff&fm=webp&w=930", "price": 46000 },
-    { "id" : 31, "modelId": 11, "image": "https://cars.usnews.com/static/images/Auto/custom/14510/2021_Toyota_Tacoma_1.jpg", "price": 58000 },
-    { "id" : 32, "modelId": 10, "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2018-toyota-camry-mmp-1544816921.jpg?crop=0.819xw:1.00xh;0.0593xw,0&resize=640:*", "price": 31000 },
-    { "id" : 33, "modelId": 9, "image": "https://cnet1.cbsistatic.com/img/q7sX_wFPWKPFP3meoTpjpRcepic=/2020/08/04/f401f2f5-9711-4954-84a8-7c63f90183d2/ogi-2020-toyota-land-cruiser-001.jpg", "price": 51000 },
-    { "id" : 34, "modelId": 8, "image": "https://www.ccarprice.com/products/BMW-Z4-M-40i-2019.jpg", "price": 49000 },
-    { "id" : 35, "modelId": 7, "image": "https://hips.hearstapps.com/amv-prod-gp.s3.amazonaws.com/gearpatrol/wp-content/uploads/2019/10/2019-BMW-M5-Competition-Review-gear-patrol-lead-full.jpg", "price": 79000 },
-    { "id" : 36, "modelId": 6, "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1-bmw-840d-2019-fd-hero-front.jpg", "price": 89000 },
-    { "id" : 37, "modelId": 5, "image": "https://www.bmw.com/content/dam/bmw/common/all-models/x-series/x7/2018/Inspire/bmw-x7-inspire-radiating-presence-01.jpg", "price": 102000 },
-    { "id" : 38, "modelId": 4, "image": "https://bringatrailer.com/wp-content/uploads/2019/01/5c4283e2808df_mercedes-benz_slk55_amg_1546840373f66e7dff9f98764daD875B71B-FF35-4514-A7B9-5BABA3710C79.jpeg?fit=940%2C626", "price": 53000 },
-    { "id" : 39, "modelId": 1, "image": "https://cnet1.cbsistatic.com/img/V6vDYbBErGzFQM5OQmljmigup3c=/940x0/2019/06/26/2176678c-32f5-4981-9653-1b2463d87a9b/carbahnc63s001.jpg", "price": 75000 },
-    { "id" : 40, "modelId": 1, "image": "https://images.moneycontrol.com/static-mcnews/2020/07/Mercedes-C63-1-770x433.jpg?impolicy=website&width=770&height=431", "price": 71000 },
-    { "id" : 41, "modelId": 1, "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/27/w900X450/2019-2020-mercedes-amg-c63-coupe-front-angle-view-carbuzz-509496-1600.jpg", "price": 79000 }
+    { "id" : 31, "modelId": 11, "image": "https://cars.usnews.com/static/images/Auto/custom/14510/2021_Toyota_Tacoma_1.jpg", "price": 58000 }
 
   ]
 }
