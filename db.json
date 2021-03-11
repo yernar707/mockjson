@@ -33,7 +33,7 @@
     { "id": 7, "classname": "SUV" },
     { "id": 8, "classname": "MINIVAN" },
     { "id": 9, "classname": "PICKUP TRUCK" },
-    { "id": 10, "classname": "LUXE" },
+    { "id": 10, "classname": "LUXE" }
   ],
   "carModels": [
     { "id": 1, "brandId": 1, "classId": 1, "modelName": "C63" },
@@ -75,7 +75,7 @@
     { "id": 37, "brandId": 10, "classId": 3, "modelName": "Mustang" },
     { "id": 38, "brandId": 10, "classId": 7, "modelName": "Explorer" },
     { "id": 39, "brandId": 10, "classId": 9, "modelName": "F-150" },
-    { "id": 40, "brandId": 10, "classId": 5, "modelName": "Focus" },
+    { "id": 40, "brandId": 10, "classId": 5, "modelName": "Focus" }
   ],
   "cars":[
     { "id" : 1, "modelId": 40, "image": "https://cdn.motor1.com/images/mgl/8LRJv/s3/2020-ford-focus-st.jpg", "price": 24000 },
